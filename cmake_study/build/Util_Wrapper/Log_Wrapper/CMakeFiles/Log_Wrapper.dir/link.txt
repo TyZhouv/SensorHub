@@ -1,0 +1,2 @@
+C:\x86_64-6.4.0-release-posix-seh-rt_v5-rev0\mingw64\bin\ar.exe qc libLog_Wrapper.a CMakeFiles/Log_Wrapper.dir/log.c.obj
+C:\x86_64-6.4.0-release-posix-seh-rt_v5-rev0\mingw64\bin\ranlib.exe libLog_Wrapper.a

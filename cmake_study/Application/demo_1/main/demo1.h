@@ -1,0 +1,1 @@
+void print_every_sec();

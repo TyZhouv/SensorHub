@@ -1,0 +1,14 @@
+C:/CCodebase/cmake_study/build/CMakeFiles/edit_cache.dir
+C:/CCodebase/cmake_study/build/CMakeFiles/rebuild_cache.dir
+C:/CCodebase/cmake_study/build/Application/CMakeFiles/edit_cache.dir
+C:/CCodebase/cmake_study/build/Application/CMakeFiles/rebuild_cache.dir
+C:/CCodebase/cmake_study/build/Application/demo_1/CMakeFiles/edit_cache.dir
+C:/CCodebase/cmake_study/build/Application/demo_1/CMakeFiles/rebuild_cache.dir
+C:/CCodebase/cmake_study/build/Application/demo_1/main/CMakeFiles/demo_1.dir
+C:/CCodebase/cmake_study/build/Application/demo_1/main/CMakeFiles/edit_cache.dir
+C:/CCodebase/cmake_study/build/Application/demo_1/main/CMakeFiles/rebuild_cache.dir
+C:/CCodebase/cmake_study/build/Util_Wrapper/CMakeFiles/edit_cache.dir
+C:/CCodebase/cmake_study/build/Util_Wrapper/CMakeFiles/rebuild_cache.dir
+C:/CCodebase/cmake_study/build/Util_Wrapper/Log_Wrapper/CMakeFiles/Log_Wrapper.dir
+C:/CCodebase/cmake_study/build/Util_Wrapper/Log_Wrapper/CMakeFiles/edit_cache.dir
+C:/CCodebase/cmake_study/build/Util_Wrapper/Log_Wrapper/CMakeFiles/rebuild_cache.dir
